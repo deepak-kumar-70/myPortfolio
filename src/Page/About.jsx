@@ -1,8 +1,8 @@
 import React from "react";
 import developerPic from "../assets/SvgIcon/developer-pic-1.png";
 
-import Skelton from "../assets/Image/Skelton.png";
-import "../App.css"; // Assuming CustomFont1 and CustomFont2 are defined here
+import Skelton from "../assets/Image/skelton.png";
+import "../App.css";
 import CustomShape from "../assets/SvgIcon/CustomShape";
 import CircularText from "../assets/SvgIcon/CircularText.svg";
 import PolygonGlassCard from "../assets/SvgIcon/PlygonCard";
