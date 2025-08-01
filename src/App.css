@@ -1,0 +1,52 @@
+
+
+@font-face {
+  font-family: 'CustomFont1';
+  src: url('./assets/Font/font1.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CustomFont2';
+  src: url('./assets/Font/font2.woff2') format('woff2');
+ 
+}
+
+@font-face {
+  font-family: 'CustomFont3';
+  src: url('./assets/Font/font3.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'avertaRegular';
+  src: url('./assets/Font/averta-regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Orbitron';
+  src: url('./assets/Font/Orbitron-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Anton';
+  src: url('./assets/Font/Anton-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'TypeWriter';
+  src: url('./assets/Font/typeWriter.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'rejoice';
+  src: url(./assets/Font/Rejouice-Headline.woff2);
+}
+
+
